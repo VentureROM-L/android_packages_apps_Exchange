@@ -27,14 +27,13 @@
     <string name="meeting_recurring" msgid="2752008481765880928">"Milloin: <xliff:g id="EVENTDATE">%s</xliff:g> (toistuva)"</string>
     <string name="meeting_allday" msgid="7251209063071628040">"Milloin: <xliff:g id="EVENTDATE">%s</xliff:g> (koko päivän)"</string>
     <string name="meeting_allday_recurring" msgid="4545762363537362545">"Milloin: <xliff:g id="EVENTDATE">%s</xliff:g> (koko päivän, toistuva)"</string>
-    <string name="notification_exchange_calendar_added" msgid="8998454267739748113">"Exchange-kalenteri lisätty"</string>
     <string name="app_name" msgid="1707639359526090662">"Exchange Services"</string>
     <string name="exception_cancel" msgid="8972887597771126871">"Poikkeus toistuvassa tapahtumassa, peruutettu <xliff:g id="DATE">%s</xliff:g>"</string>
     <string name="exception_updated" msgid="329192591551400871">"Poikkeus toistuvassa tapahtumassa, muutettu <xliff:g id="DATE">%s</xliff:g>"</string>
     <string name="policy_dont_allow_storage_cards" msgid="1305111581282078881">"Älä salli tallennuskortteja"</string>
     <string name="policy_dont_allow_unsigned_apps" msgid="7663879438028397642">"Älä salli allekirjoittamatt. sovelluksia"</string>
     <string name="policy_dont_allow_unsigned_installers" msgid="8227232531632246827">"Älä salli allekirjoittamatt. sov. asent."</string>
-    <string name="policy_dont_allow_wifi" msgid="8501275982154914194">"Älä salli wifi-yhteyttä"</string>
+    <string name="policy_dont_allow_wifi" msgid="8501275982154914194">"Älä salli Wi-Fi-yhteyttä"</string>
     <string name="policy_dont_allow_text_messaging" msgid="860590081742537792">"Älä salli tekstiviestejä"</string>
     <string name="policy_dont_allow_pop_imap" msgid="5772539239469636191">"Älä salli POP3- tai IMAP-tilejä"</string>
     <string name="policy_dont_allow_irda" msgid="8230803019935893114">"Älä salli infrapunaviestintää"</string>
